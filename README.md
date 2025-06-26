@@ -24,9 +24,9 @@ A fully functional real-time chat application built with **React.js**, **Node.js
 <!-- Start step to run in your PC -->
 
 
-git clone https://github.com/Vanshguptaa/Lia_Plus_Ai.git
+git clone https://github.com/Vanshguptaa/Real_Time_chat
 
-cd Lia_plus_Ai
+cd Real_Time_chat
 
 cd backend
 
@@ -35,7 +35,7 @@ npm install
 <!-- download these dependencies  -->
 npm install express socket.io cors
 
-node server.js
+node index.js
 
 /frontend run in another terminal
 

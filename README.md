@@ -26,7 +26,7 @@ A fully functional real-time chat application built with **React.js**, **Node.js
 
 git clone https://github.com/Vanshguptaa/Lia_Plus_Ai.git
 
-
+cd Lia_plus_Ai
 
 cd backend
 

@@ -44,7 +44,6 @@ cd frontend
 npm install
 
 npm install socket.io-client
-<img width="528" height="401" alt="h4" src="https://github.com/user-attachments/assets/cee156aa-190e-4938-98a4-34ed24a877c7" />
 
 npm start
 

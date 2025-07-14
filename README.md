@@ -49,5 +49,3 @@ npm start
 
 <!-- App runs at http://localhost:3000 -->
 
-
-<img width="556" height="411" alt="h3" src="https://github.com/user-attachments/assets/7a568e74-2938-4230-bf46-7e40c8e40561" />
